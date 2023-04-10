@@ -5,7 +5,7 @@ AI에게 지문을 보여주고 질문해 보세요!
 해당 코드는 샘플 모델과 이미지들과 가상환경이 전부 빠져있는 순수 서버 코드 입니다.
 
 
-#가상환경 requirements
+# requirements
 
 absl-py==1.0.0
 appdirs==1.4.4
