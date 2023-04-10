@@ -4,6 +4,23 @@ AI에게 지문을 보여주고 질문해 보세요!
 
 해당 코드는 샘플 모델과 이미지들과 가상환경이 전부 빠져있는 순수 서버 코드 입니다.
 
+#usage
+
+1. 아래 종속성 패키지를 전부 파이썬 가상환경에 설치하세요
+
+2. Team4_server\Flask\flask_deep\static\models 경로에 ocr 모델을 넣으세요
+
+3. Team4_server\Flask\flask_deep\tacotron2_project 경로에 타코트론 모델을 넣으세요
+
+4. 파이썬 가상환경에서 start_flask.py 실행하세요 
+
+5. 웹 페이지에서 실행 사용해보세요!
+
+# models
+구글 드라이브 링크입니다!
+
+https://drive.google.com/file/d/1I-fA2unBB3aGb_tSIearYnemSxPfVaOT/view?usp=sharing
+
 
 # requirements
 
