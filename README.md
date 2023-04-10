@@ -26,6 +26,8 @@ https://drive.google.com/file/d/1I-fA2unBB3aGb_tSIearYnemSxPfVaOT/view?usp=shari
 
 # requirements
 
+파일에 첨부했습니다!
+
 absl-py==1.0.0
 appdirs==1.4.4
 astunparse==1.6.3
