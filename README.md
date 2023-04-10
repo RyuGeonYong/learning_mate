@@ -6,6 +6,7 @@ AI에게 지문을 보여주고 질문해 보세요!
 
 
 #가상환경 requirements
+
 absl-py==1.0.0
 appdirs==1.4.4
 astunparse==1.6.3
@@ -91,5 +92,6 @@ Unidecode==1.3.4
 urllib3==1.26.9
 Werkzeug==2.1.1
 wrapt==1.14.0
+
 
 만약 실행이 안된다면 텐서플로우 1.15 혹은 1.14 버전을 설치하세요
